@@ -90,7 +90,7 @@ function App() {
                 it's linked to is my favourite! The current route is 
                 blockchain development. 😋
               </p>
-              <p className="leading-[26px] mt-6">Email Me: <a href="#" target="_blank" className="leading-[26px]">feyyaz@feyyum.com</a></p>
+              <p className="leading-[26px] mt-6">Email Me: <a href="mailto:feyyaz@feyyum.com" target="_blank" className="leading-[26px]">feyyaz@feyyum.com</a></p>
               <ul className="py-6 leading-[26px] flex gap-3 border-b border-gray-200">
                 <li><a href="/" target="_blank">Resume</a></li>
                 <li><a href="https://github.com/feyyum" target="_blank">Github</a></li>
