@@ -75,7 +75,7 @@ function App() {
   return (
     <div className="App">
       <div className="flex flex-col justify-center">
-        <div className="title flex flex-col w-full">
+        <div className="title flex flex-col w-full mb-[50px]">
           <h1 className="text-center my-[35px]"><a href="https://feyyum.com" className="text-[18px]  tracking-widest text-black hover:text-gray-700">FEYYAZ N. CAVLAK</a></h1>
         </div>
         <div className='flex mx-[30px] sm:justify-center'>
