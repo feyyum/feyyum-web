@@ -14,7 +14,7 @@ function App() {
 
   const trueDate = (param) => {
     const date = new Date(param)
-    const day = date.getDay()
+    const day = date.getDate()
     const year = date.getFullYear()
     let month;
     switch (date.getMonth()) {
