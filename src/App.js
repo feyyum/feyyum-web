@@ -55,7 +55,7 @@ function App() {
         month = "Dec."
       break;
     }
-    return `${month} ${day}, ${year}`
+    return `${month} ${day + 1}, ${year}`
   }
 
   const getPosts = () => {
