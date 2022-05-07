@@ -82,13 +82,11 @@ function App() {
           <div className='flex flex-col max-w-4xl'>
             <div className="flex flex-col">
               <p className="leading-[26px] sm:w-3/5">
-                Hi there! I am studying Environmental 
+                Feyyaz Numan Cavlak - Hi there! I am studying Environmental 
                 Engineering at Istanbul Technical University. 
-                Front-end development is something I enjoy. 
-                I develop in HTML, CSS, JavaScript and Python languages. 
-                C# will join them soon. The React library and any technology 
-                it's linked to is my favourite! The current route is 
-                blockchain development. 😋
+                I am currently working at Pooly as a Front-End Developer.
+                JavaScript is the programming language I'm trying to master. 
+                I will be working on Three.js and WebGL soon.
               </p>
               <p className="leading-[26px] mt-6">Email Me: <a href="mailto:feyyaz@feyyum.com" target="_blank" className="leading-[26px]">feyyaz@feyyum.com</a></p>
               <ul className="py-6 leading-[26px] flex gap-3 border-b border-gray-200">
