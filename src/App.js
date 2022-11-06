@@ -90,7 +90,7 @@ function App() {
               </p>
               <p className="leading-[26px] mt-6">Email Me: <a href="mailto:feyyaz@feyyum.com" target="_blank" className="leading-[26px]">feyyaz@feyyum.com</a></p>
               <ul className="py-6 leading-[26px] flex gap-3 border-b border-gray-200">
-                <li><a href="https://1drv.ms/u/s!AjqHrmu6q-yCkTXhGJZE21Y8rCzN?e=KSXBQ6" target="_blank">Resume</a></li>
+                <li><a href="/" target="_blank">Resume</a></li>
                 <li><a href="https://github.com/feyyum" target="_blank">Github</a></li>
                 <li><a href="https://medium.com/@feyyazcavlak" target="_blank">Medium</a></li>
                 <li><a href="https://linkedin.com/in/feyyaz-numan-cavlak" target="_blank">LinkedIn</a></li>
